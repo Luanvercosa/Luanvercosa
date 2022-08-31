@@ -1,7 +1,14 @@
-<img src = "code.gif" width = "325px">
-#❤️ Seja bem vindo e bem vinda ao meu GitHub! É bom ter você aqui❤️!
-😬Eu estou entrando nesse mundo de programação, e estou aprendendo algumas tecnologias!!
-Gosto mais do back-end
+<img src = "code.gif" width = "325px" align = "right">
+
+# ❤ Olá, é um prazer em te-lo por aqui!
+  <div id="badges">
+  <a href = "https://github.com/Luanvercosa">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+  Eu estou aprendendo a programar!!
+- 👩‍💻 Aprendendo algo sobre back e front-end
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -10,6 +17,8 @@ Gosto mais do back-end
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
 
 <div align = "left">
