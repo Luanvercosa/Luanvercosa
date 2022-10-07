@@ -1,6 +1,6 @@
 <img src = "code.gif" width = "325px" align = "right">
 
-# ❤ Olá, é um prazer em te-lo por aqui!
+# ❤ Olá, é um prazer em te-lo por aqui! # ❤
   <div id="badges">
 </div>
  Meu nome é Luan Verçosa!!
