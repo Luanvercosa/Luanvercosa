@@ -2,9 +2,6 @@
 
 # ❤ Olá, é um prazer em te-lo por aqui!
   <div id="badges">
-  <a href = "https://www.linkedin.com/in/luan-verçosa-b76999240/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
   Eu estou aprendendo a programar!!
 - 👩‍💻 Aprendendo algo sobre back e front-end
@@ -15,6 +12,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" height="40" width="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Csharp" height="40" width="40" >
 </div>
+
+<a href = "https://www.linkedin.com/in/luan-verçosa-b76999240/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ---
 <div align = "left">
