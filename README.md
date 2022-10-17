@@ -19,7 +19,7 @@
 <br/>
 
 <a href = "https://www.linkedin.com/in/luan-verçosa-b76999240/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkeDin"alt="LinkedIn Badge"/>
   </a>
 
 ---
